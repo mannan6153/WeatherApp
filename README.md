@@ -1,4 +1,4 @@
-# WeatherApp
+
 # Weather App
 
 A user-friendly weather application that allows users to check the current weather conditions for any city. Enter the city name to get real-time updates on temperature, humidity, and wind speed using the OpenWeatherMap API.
